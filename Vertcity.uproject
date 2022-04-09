@@ -19,6 +19,13 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "HAPMedia",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
